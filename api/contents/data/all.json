@@ -2,57 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-23T18:41:36.751470Z",
+      "created": "2022-07-23T18:42:19.190100Z",
       "format": null,
-      "last_modified": "2022-07-23T18:39:59.778834Z",
-      "mimetype": "text/csv",
-      "name": "iris.csv",
-      "path": "data/iris.csv",
-      "size": 3712,
-      "type": "file",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-07-23T18:41:36.751470Z",
-      "format": null,
-      "last_modified": "2022-07-23T18:39:59.778834Z",
-      "mimetype": null,
-      "name": "fasta-example.fasta",
-      "path": "data/fasta-example.fasta",
-      "size": 386,
-      "type": "file",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-07-23T18:41:36.751470Z",
-      "format": null,
-      "last_modified": "2022-07-23T18:39:59.778834Z",
-      "mimetype": "image/png",
-      "name": "matplotlib.png",
-      "path": "data/matplotlib.png",
-      "size": 26389,
-      "type": "file",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-07-23T18:41:36.751470Z",
-      "format": null,
-      "last_modified": "2022-07-23T18:39:59.778834Z",
-      "mimetype": "application/json",
-      "name": "bar.vl.json",
-      "path": "data/bar.vl.json",
-      "size": 725,
-      "type": "file",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-07-23T18:41:36.751470Z",
-      "format": null,
-      "last_modified": "2022-07-23T18:39:59.778834Z",
+      "last_modified": "2022-07-23T18:40:34.864772Z",
       "mimetype": "text/csv",
       "name": "touches.csv",
       "path": "data/touches.csv",
@@ -61,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-23T18:41:36.751470Z",
+  "created": "2022-07-23T18:42:19.190100Z",
   "format": "json",
-  "last_modified": "2022-07-23T18:41:36.751470Z",
+  "last_modified": "2022-07-23T18:42:19.190100Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
