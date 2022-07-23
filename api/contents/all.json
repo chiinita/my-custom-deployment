@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-23T18:45:18.343862Z",
+      "created": "2022-07-23T18:45:34.841357Z",
       "format": null,
-      "last_modified": "2022-07-23T18:45:18.343862Z",
+      "last_modified": "2022-07-23T18:45:34.841357Z",
       "mimetype": null,
       "name": "data",
       "path": "data",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-23T18:45:18.355861Z",
+      "created": "2022-07-23T18:45:34.853357Z",
       "format": null,
-      "last_modified": "2022-07-23T18:44:09.519870Z",
+      "last_modified": "2022-07-23T18:44:19.916801Z",
       "mimetype": null,
       "name": "python.ipynb",
       "path": "python.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-23T18:45:18.355861Z",
+      "created": "2022-07-23T18:45:34.849357Z",
       "format": null,
-      "last_modified": "2022-07-23T18:45:18.355861Z",
+      "last_modified": "2022-07-23T18:45:34.849357Z",
       "mimetype": null,
       "name": "pyolite",
       "path": "pyolite",
@@ -38,21 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-23T18:45:18.355861Z",
+      "created": "2022-07-23T18:45:34.841357Z",
       "format": null,
-      "last_modified": "2022-07-23T18:45:18.355861Z",
-      "mimetype": null,
-      "name": "xeus-wren",
-      "path": "xeus-wren",
-      "size": null,
-      "type": "directory",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-07-23T18:45:18.347862Z",
-      "format": null,
-      "last_modified": "2022-07-23T18:44:09.515870Z",
+      "last_modified": "2022-07-23T18:44:19.912801Z",
       "mimetype": null,
       "name": "p5.ipynb",
       "path": "p5.ipynb",
@@ -62,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-23T18:45:18.343862Z",
+      "created": "2022-07-23T18:45:34.837357Z",
       "format": null,
-      "last_modified": "2022-07-23T18:45:15.931879Z",
+      "last_modified": "2022-07-23T18:45:32.249348Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -73,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-23T18:45:18.355861Z",
+  "created": "2022-07-23T18:45:34.853357Z",
   "format": "json",
-  "last_modified": "2022-07-23T18:45:18.355861Z",
+  "last_modified": "2022-07-23T18:45:34.853357Z",
   "mimetype": null,
   "name": "",
   "path": "",
